@@ -1,0 +1,38 @@
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    font-family: Helvetica;
+    text-align: center;
+    color: khaki;
+}
+
+#page_title {
+    background-image: url("../images/pattern.jpeg");
+}
+
+.block {
+    font-family: Helvetica;
+}
+
+.block_title {   
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
+
+#green_bt {
+    background-color: #5ae7b1;
+}
+
+.blue_text {
+    color: blue;
+    font-weight: bold;
+}
+
+#red_bt {
+    background-color: lightcoral;
+}
+
+#blue_bt {
+    background-color: skyblue;
+}
